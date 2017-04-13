@@ -4,7 +4,8 @@
   "description": "chatroom for UTutors",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs app.js"
   },
   "author": "steve/brian/andrew/chris",
   "license": "ISC",
